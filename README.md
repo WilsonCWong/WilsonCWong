@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilsoncwong&label=Profile%20views&color=0e75b6&style=flat" alt="wilsoncwong" /> </p>
 
-- 🌱 I’m currently learning **Ruby, Ren'Py, and game design**
+- 🌱 I’m currently learning **Ruby and game design**
 
 - 👨‍💻 All of my projects are available here [https://wilsonwong.vercel.app/projects](https://wilsonwong.vercel.app/projects)
 
