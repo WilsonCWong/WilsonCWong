@@ -10,8 +10,3 @@
 - 📝 My personal website is at [https://wilsonwong.vercel.app/](https://wilsonwong.vercel.app/)
 
 <br/>
-
-<p align="center" width="100%">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=wilsoncwong&show_icons=true&locale=en" alt="wilsoncwong" />
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=wilsoncwong&" alt="wilsoncwong" />
-</p>
