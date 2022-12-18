@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilson</h1>
-<h3 align="center">A web developer and Unity enthusiast from Canada</h3>
+<h3 align="center">A professional full-stack web developer and Unity developer from Canada</h3>
 <br/>
 
 - 🛒 Currently working on mobiles games at Hyper Hippo Entertainment
