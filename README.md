@@ -2,7 +2,7 @@
 <h3 align="center">A web developer and Unity enthusiast from Canada</h3>
 <br/>
 
-- 🛒 Currently working on e-commerce messaging as a software developer at Granify
+- 🛒 Currently working on mobiles games at Hyper Hippo Entertainment
 
 - 🎮 I’m currently making a game in Unity in my spare time
 
