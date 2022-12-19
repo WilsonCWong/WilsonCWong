@@ -2,7 +2,7 @@
 <h3 align="center">A professional full-stack web developer and Unity developer from Canada</h3>
 <br/>
 
-- 🛒 Currently working on mobiles games at Hyper Hippo Entertainment
+- 🛒 Currently working on mobile games at Hyper Hippo Entertainment
 
 - 🎮 I’m currently making a game in Unity in my spare time
 
